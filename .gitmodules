@@ -15,4 +15,4 @@
 	url = git@github.com:kyazdani42/nvim-web-devicons.git
 [submodule "nvim/pack/plugins/start/lualine.nvim"]
 	path = nvim/pack/plugins/start/lualine.nvim
-	url = git@github.com:shadmansaleh/lualine.nvim.git
+	url = git@github.com:nvim-lualine/lualine.nvim.git
